@@ -14,7 +14,7 @@ Passionate about coding and building modern web</h3>
 
 <h3 align="left">🚀 About Me:</h3>
 
-- 🎓 3rd‑semester **CST** student at **Dhaka Polytechnic**.
+- 🎓 4th‑semester **CST** student at **Dhaka Polytechnic**.
 - 🌱 I’m currently learning **MONGO BD AND EXPRESS.JS**
 - 🌍 From **Uttara**, currently in **Dhaka** timezone region.
 - 💻 Interested in web development (**Front-End & Back-End**)
