@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="#"><img 
+  src="https://media.licdn.com/dms/image/v2/D4D16AQGU1sbuXN-deA/profile-displaybackgroundimage-shrink_350_1400/B4DZqbywhtJAAY-/0/1763550368127?e=1765411200&v=beta&t=ce9G3WrP9PMdkmXPIYudyezjvM9HnM8d6QmkRYnFEm0" 
+  alt="Yaisir-Card" 
+/></a>
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&random=true&width=435&lines=YASIR+ARAFAT+ALIF;MREN+STACK+WEB+DEVELOPER" alt="Typing SVG" /></a>
 </h1>
